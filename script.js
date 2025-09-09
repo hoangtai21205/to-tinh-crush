@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function () {
     "A đã nghĩ mãi … liệu có nên nói điều này không???",
     "Nhưng nếu không nói thì sẽ tiếc cả đời.",
     "Nên hôm nay, a quyết định nói ra lời ấp ủ bao lâu nay ...",
-    "Mà a chx dám ns ... "
+    "Mà a chx dám ns ... ",
     "Đó là : ... "
     "A thích e !!!"
   ];
