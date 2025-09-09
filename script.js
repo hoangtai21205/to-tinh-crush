@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function () {
     "Nên hôm nay, a quyết định nói ra lời ấp ủ bao lâu nay ...",
     "Mà a chx dám ns ... ",
     "Đó là : ... ",
-    "A thích e !!!",
+    "A thích e !!!"
   ];
 
   let currentLine = 0;
