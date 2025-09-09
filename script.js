@@ -15,8 +15,8 @@ document.addEventListener('DOMContentLoaded', function () {
     "Nhưng nếu không nói thì sẽ tiếc cả đời.",
     "Nên hôm nay, a quyết định nói ra lời ấp ủ bao lâu nay ...",
     "Mà a chx dám ns ... ",
-    "Đó là : ... "
-    "A thích e !!!"
+    "Đó là : ... ",
+    "A thích e !!!",
   ];
 
   let currentLine = 0;
